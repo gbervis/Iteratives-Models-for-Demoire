@@ -7,4 +7,4 @@ This repository presents experiments on iterative models developed for demoiré 
   
 - **`Iterative Model - Training ...`**: Houses the training code used to optimize the iterative demoiré models.
 
-- **`results_test_model ...`**: A dictionary (typically saved as a `.pkl` or `.json` file) that stores per-image evaluation metrics for each model, enabling detailed analysis and comparison.
+- **`results_test_model ...`**: A dictionary (saved as a `.pkl` file) that stores per-image evaluation metrics for each model, enabling detailed analysis and comparison.
